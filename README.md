@@ -7,4 +7,8 @@
 
 <H1>Helpfull Software</H1>
 - Banana : <br>
-- Vim : <br>
+- Ultravim : <br>
+- Gertrude : <br>
+- Zsh : <br>
+- OhMyZsh : <br>
+- IntraStat : <br>
