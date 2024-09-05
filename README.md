@@ -3,6 +3,7 @@
 <H1>Helpfull Link</H1>
 - Intra Epitech : <br>
 - Epitech Moulinette : <br>
+- Outlook : <br>
 - Sudo Calculator : <br>
 
 <H1>Helpfull Software</H1>
